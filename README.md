@@ -1,9 +1,10 @@
 # publication_pitch | My idea of our class publication 
 
-What is the idea for a publication? 
+<h1>What is the idea for a publication?</h1>
 
-<p>Theme: Surving on a Dime - An in depth look at income inequality in New York City 
-In September 2014, the New York Times reported that the gap between Manhattan's rich and poor is the greatest in the US according to data from the 2010 Census. Just last month, Business Insider officially named Brooklyn as the US's most unaffordable housing market. It is no secret that New York City is one of the most expensive cities in the world, but what remains a mystery is how do the 99% get by in city designed for the rich and famous? </p>
+<h2>Theme: Surving on a Dime - An in depth look at income inequality in New York City<h/2>
+
+<p>In September 2014, the New York Times reported that the gap between Manhattan's rich and poor is the greatest in the US according to data from the 2010 Census. Just last month, Business Insider officially named Brooklyn as the US's most unaffordable housing market. It is no secret that New York City is one of the most expensive cities in the world, but what remains a mystery is how do the 99% get by in city designed for the rich and famous? </p>
 
 Who is your audience?
 My audience is NYC's low and middle income residents. This audience spans all races, but skews towards people of color. 
