@@ -8,12 +8,12 @@ Theme: Surving on a Dime - An in depth look at income inequality in New York Cit
 
 Who is your audience?
 <p>My audience is NYC's low and middle income residents. This audience spans all races, but skews towards people of color. 
-I also think there is a secondary audience of 'concerend citizens,' service providers, and people who are politically engaged who believe that NYC should affordable.</p>
+I also think there is a secondary audience of 'concerend citizens,' service providers, and people who are politically engaged who believe that NYC should be affordable.</p>
 
 Is there a similar publication? If yes, how will your publication differentiate itself from the existing publication?
-<p>Sure, www.Brokelyn.com is a similar publication. Brokelyn focuses on free/cheap things to do in Brooklyn. It takes more of a guide approach rather than a hard news look at HOW people survive and the policies that keep NYC unaffordable.
+<p>Sure, www.Brokelyn.com is a similar publication. Brokelyn focuses on free/cheap things to do in Brooklyn. It takes more of a guide approach rather than a hard news look at HOW people make it and the policies that keep NYC unaffordable.
 
-Income inequality tends to be a theme or topic for many leading news publications, but it is never the sole focus. TIME runs a series of national income inequality stories </p>
+Income inequality tends to be a theme or topic for many leading news publications, but it is never the sole focus. TIME runs a series of national income inequality stories.</p>
 
 Give a few general examples of pieces that might run on this site.
 
@@ -21,7 +21,7 @@ Inside the City's Recently Constructed Affordable Housing Units - narrative / or
 
 How Many New Yorkers Fit the Income Requiremnts for the City's Affordable Housing? - graphs/graphics 
 
-Where To Get affordable Health Care - map 
+Where To Get Affordable Health Care - map 
 
 Calculate Your Property Taxes - as houses in Brooklyn and beyond sell for huge sums of money property taxes for surrounding buildings soar too. Use this caculuator to forecast your taxes.. 
 
