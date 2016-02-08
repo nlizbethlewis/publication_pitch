@@ -29,3 +29,5 @@ Calculate Your Property Taxes - as houses in Brooklyn and beyond sell for huge s
 
 Going out on a Budget - text / graphic 
 
+
+___also please count me in for managing the class publication__
